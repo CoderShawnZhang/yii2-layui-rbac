@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "shawn\\rbac\\":"src"
+            "shanwzhang\\rbac\\":"src"
         }
     },
     "repositories": {
