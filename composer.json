@@ -1,5 +1,5 @@
 {
-    "name": "shawn/yii-layui-rbac",
+    "name": "shanwzhang/yii2-layui-rbac",
     "description": "rbac管理",
     "type": "yii2-extension",
     "license": "MIT",
