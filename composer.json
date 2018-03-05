@@ -9,6 +9,10 @@
             "email": "zhanghongbo@anlewo.com"
         }
     ],
+    "support": {
+        "email": "taobao1875@163.com"
+    },
+    "minimum-stability": "dev",
     "require": {
         "yiisoft/yii2": "~2.0"
     },
